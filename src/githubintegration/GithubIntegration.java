@@ -17,4 +17,9 @@ public class GithubIntegration {
         System.out.println("Hello world!");
     }
     
+    public int function1()
+    {
+        return 1;
+    }
+    
 }
